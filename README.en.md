@@ -1,8 +1,19 @@
 # LeetCode
 
+![Total visitor](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=azl397985856.leetcode)
+![Visitors in today](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=azl397985856.leetcode)
+> since 2019-09-03 19:40
+
 [简体中文](./README.md) | English
 
 ---
+
+![leetcode.jpeg](./assets/leetcode.jpeg)
+
+This essay records the course of and my emotion to this project from initialisation to 10,000 stars.
+[Milestone for 10,000+ stars](./thanksGiving.md)
+
+If you are interested in this project, do not mean your star. This project will be supported for a long enough time by the comminity. Thanks for every audience and contributor.
 
 ## Introduction
 
@@ -24,7 +35,13 @@ This repository is divided into five parts for now:
 
 > Only when having mastered the basic data structures and algorithms can you solve complex problems easily.
 
+## About me
 
+I, a programmer, am all passionate about technology.
+
+Used to write `.net` and `Java`, I am a frontend engineer and focused on the engineering, optimization and standardlization for frontend.
+
+If you want to do some contributions or collaborations, just feel free to contact me via [azl397985856@gmail.com].
 
 ## Usage Instructions
 
@@ -62,9 +79,9 @@ The data structures mainly includes:
 
 ![0042.trapping-rain-water](./assets/problems/42.trapping-rain-water-1.png)
 
-[Stack in Browser](./thinkings/basic-data-structure.md)：
+[0547.friend-circles](./problems/547.friend-circles-en.md):
 
-![basic-data-structure-call-stack](./assets/thinkings/basic-data-structure-call-stack.png)
+![friend circle BFS](./assets/problems/547.friend-circle-bfs.png)
 
 [backtrack problems](./problems/90.subsets-ii.md):
 
@@ -96,12 +113,12 @@ The data structures mainly includes:
 
 - [0020.Valid Parentheses](./problems/20.validParentheses.md)
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
+- [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-en.md) 🆕
 - [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
 - [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)
 - [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)
 - [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
 - [0125.valid-palindrome](./problems/125.valid-palindrome.md) 🆕
-- [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md) 🆕
 - [0136.single-number](./problems/136.single-number.md)
 - [0155.min-stack](./problems/155.min-stack.md) 🆕
 - [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
@@ -148,6 +165,7 @@ The data structures mainly includes:
 - [0073.set-matrix-zeroes](./problems/73.set-matrix-zeroes.md )
 - [0075.sort-colors](./problems/75.sort-colors.md)
 - [0078.subsets](./problems/78.subsets.md)
+- [0079.word-search](./problems/79.word-search-en.md)
 - [0086.partition-list](./problems/86.partition-list.md)
 - [0090.subsets-ii](./problems/90.subsets-ii.md)
 - [0091.decode-ways](./problems/91.decode-ways.md)
@@ -157,6 +175,7 @@ The data structures mainly includes:
 - [0102.binary-tree-level-order-traversal](./problems/102.binary-tree-level-order-traversal.md)
 - [0103.binary-tree-zigzag-level-order-traversal](./problems/103.binary-tree-zigzag-level-order-traversal.md)
 - [0113.path-sum-ii](./problems/113.path-sum-ii.md)
+- [0129.sum-root-to-leaf-numbers](./problems/129.sum-root-to-leaf-numbers.md) 🆕
 - [0130.surrounded-regions](./problems/130.surrounded-regions.md) 🆕 
 - [0131.palindrome-partitioning](./problems/131.palindrome-partitioning.md)
 - [0139.word-break](./problems/139.word-break.md)
@@ -168,7 +187,9 @@ The data structures mainly includes:
 - [0201.bitwise-and-of-numbers-range](./problems/201.bitwise-and-of-numbers-range.md)
 - [0208.implement-trie-prefix-tree](./problems/208.implement-trie-prefix-tree.md)
 - [0209.minimum-size-subarray-sum](./problems/209.minimum-size-subarray-sum.md)
+- [0215.kth-largest-element-in-an-array](./problems/215.kth-largest-element-in-an-array.md) 🆕 
 - [0221.maximal-square](./problems/221.maximal-square.md) 🆕 
+- [0229.majority-element-ii](./problems/229.majority-element-ii.md) 🆕 
 - [0230.kth-smallest-element-in-a-bst](./problems/230.kth-smallest-element-in-a-bst.md)
 - [0236.lowest-common-ancestor-of-a-binary-tree](./problems/236.lowest-common-ancestor-of-a-binary-tree.md)🆕 
 - [0238.product-of-array-except-self](./problems/238.product-of-array-except-self.md)
@@ -183,9 +204,11 @@ The data structures mainly includes:
 - [0416.partition-equal-subset-sum](./problems/416.partition-equal-subset-sum.md)
 - [0445.add-two-numbers-ii](./problems/445.add-two-numbers-ii.md)
 - [0454.4-sum-ii](./problems/454.4-sum-ii.md)
+- [0474.ones-and-zeros](./problems/474.ones-and-zeros-en.md) 🆕
 - [0494.target-sum](./problems/494.target-sum.md)
 - [0516.longest-palindromic-subsequence](./problems/516.longest-palindromic-subsequence.md)
 - [0518.coin-change-2](./problems/518.coin-change-2.md)
+- [0547.friend-circles](./problems/547.friend-circles-en.md) 🆕
 - [0609.find-duplicate-file-in-system](./problems/609.find-duplicate-file-in-system.md)
 - [0875.koko-eating-bananas](./problems/875.koko-eating-bananas.md)
 - [0877.stone-game](./problems/877.stone-game.md)
@@ -194,27 +217,33 @@ The data structures mainly includes:
 - [1031.maximum-sum-of-two-non-overlapping-subarrays](./problems/1031.maximum-sum-of-two-non-overlapping-subarrays.md) 🆕
 
 #### Hard
+
+- [0004.median-of-two-sorted-array](./problems/4.median-of-two-sorted-array.md) 🆕
 - [0023.merge-k-sorted-lists](./problems/23.merge-k-sorted-lists.md)
+- [0025.reverse-nodes-in-k-group](./problems/25.reverse-nodes-in-k-groups-en.md) 🆕
 - [0032.longest-valid-parentheses](./problems/32.longest-valid-parentheses.md) 🆕
 - [0042.trapping-rain-water](./problems/42.trapping-rain-water.md)
-- [0124.binary-tree-maximum-path-sum](./problems/124.binary-tree-maximum-path-sum.md) 🆕
-- [0128.longest-consecutive-sequence](./problems/128.longest-consecutive-sequence.md) 🆕
+- [0124.binary-tree-maximum-path-sum](./problems/124.binary-tree-maximum-path-sum.md)
+- [0128.longest-consecutive-sequence](./problems/128.longest-consecutive-sequence.md)
 - [0145.binary-tree-postorder-traversal](./problems/145.binary-tree-postorder-traversal.md)
 - [0146.lru-cache](./problems/146.lru-cache.md)
 - [0239.sliding-window-maximum](./problems/239.sliding-window-maximum.md)
 - [0295.find-median-from-data-stream](./problems/295.find-median-from-data-stream.md) 🆕
 - [0301.remove-invalid-parentheses](./problems/301.remove-invalid-parentheses.md)
+- [0460.lfu-cache](./problems/460.lfu-cache.md) 🆕
+- [1168.optimize-water-distribution-in-a-village](./problems/1168.optimize-water-distribution-in-a-village-en.md) 🆕
+
 
 
 
 ### Summary of Data Structures and Algorithms
 
 - [Data Structure](./thinkings/basic-data-structure-en.md) (Drafts)
-- [Basic Algorithm](./thinkings/basic-algorithm.md)Drafts
-- [Binary Tree Traversal](./thinkings/binary-tree-traversal.md)
+- [Basic Algorithm](./thinkings/basic-algorithm-en.md)Drafts
+- [Binary Tree Traversal](./thinkings/binary-tree-traversal-en.md)
 - [Dynamic Programming](./thinkings/dynamic-programming-en.md)
-- [Huffman Encode and Run Length Encode](./thinkings/run-length-encode-and-huffman-encode.md)
-- [Bloom Filter](./thinkings/bloom-filter.md)
+- [Huffman Encode and Run Length Encode](./thinkings/run-length-encode-and-huffman-encode-en.md)
+- [Bloom Filter](./thinkings/bloom-filter-en.md)
 - [String Problems](./thinkings/string-problems-en.md)
 
 
